@@ -12,7 +12,7 @@ public class Timer : MonoBehaviour
     {
         timer = timer.Add(TimeSpan.FromSeconds(Time.deltaTime));
         seconds.text = timer.Seconds.ToString("00");
-        if (seconds.text == "120")
+        if (seconds.text == "59")
         {
             SceneManager.LoadScene("End");
         }
