@@ -672,9 +672,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Play again?
-
-'
+  m_Text: "\u0413\u0440\u0430\u0442\u0438 \u0449\u0435\n"
 --- !u!222 &1410748256
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -751,9 +749,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Exit
-
-'
+  m_Text: "\u0412\u0438\u0445\u0456\u0434\n"
 --- !u!222 &1464927651
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -831,7 +827,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Game Over
+  m_Text: "\u0412\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043B\u0438!"
 --- !u!222 &1487072667
 CanvasRenderer:
   m_ObjectHideFlags: 0

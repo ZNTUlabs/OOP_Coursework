@@ -20,4 +20,9 @@ public class MenuControl : MonoBehaviour
     {
         SceneManager.LoadScene("Menu");
     }
+
+    public void HelpPressed()
+    {
+        SceneManager.LoadScene("Help");
+    }
 }

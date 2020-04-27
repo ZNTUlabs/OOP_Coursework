@@ -1008,7 +1008,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Time:'
+  m_Text: "\u0427\u0430\u0441:"
 --- !u!222 &1705739095
 CanvasRenderer:
   m_ObjectHideFlags: 0

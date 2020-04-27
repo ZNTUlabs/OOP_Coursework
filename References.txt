@@ -1,0 +1,8 @@
+
+С Sharp – Вікіпедія: [Электрон. ресурс]. – Режим доступа: https://uk.wikipedia.org/wiki/C_Sharp
+Движок Unity – особенности, преимущества и недостатки – cubiq: [Электрон. ресурс]. – Режим доступа:https://cubiq.ru/dvizhok-unity/
+Язык программирования C#: краткий обзор – [Электрон. ресурс]. – Режим доступа: https://techrocks.ru/2019/02/16/c-sharp-programming-language-overview/
+Обзор коллекций –: [Электрон. ресурс]. – Режим доступа: https://professorweb.ru/my/csharp/charp_theory/level12/12_1.php
+Unity (рушій гри) – Вікіпедія: [Электрон. ресурс]. – Режим доступа: https://uk.wikipedia.org/wiki/Unity_(рушій_гри)
+Unity Scripting API : [Электрон. ресурс]. – Режим доступа: https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
+.NET Framework – Вікіпедія: [Электрон. ресурс]. – Режим доступа: https://uk.wikipedia.org/wiki/.NET_Framework
